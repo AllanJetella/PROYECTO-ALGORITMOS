@@ -1,0 +1,61 @@
+asm|ensamblador|Inserta c¢digo ensamblador directamente en el programa
+auto|automatico|Permite al compilador deducir el tipo de una variable autom ticamente
+bool|booleano|Tipo de dato l¢gico que puede ser verdadero o falso
+break|romper|Sale de un ciclo o estructura de control inmediatamente
+case|caso|Define una condici¢n dentro de una estructura switch
+ catch|capturar|Maneja una excepci¢n generada por un bloque try
+char|caracter|Tipo de dato que almacena un solo car cter
+class|clase|Define una estructura orientada a objetos que contiene atributos y m‚todos
+const|constante|Define un valor que no puede modificarse
+const_cast|conversion_constante|Elimina o agrega la cualidad const a una variable
+continue|continuar|Salta el resto del ciclo actual y pasa a la siguiente iteraci¢n
+default|por_defecto|Define la acci¢n a ejecutar si ning£n caso coincide en un switch
+delete|eliminar|Libera memoria din mica previamente asignada con new
+do|hacer|Inicia un ciclo do-while
+double|doble|	Tipo de dato num‚rico de doble precisi¢n
+dynamic_cast|conversion_dinamica|Realiza conversiones seguras entre tipos en tiempo de ejecuci¢n
+else|sino|Define una alternativa al bloque if
+ enum|enumeracion|Define un conjunto de valores enteros con nombre
+explicit|explicito|Evita conversiones impl¡citas de tipo
+extern|externo|Indica que una variable o funci¢n est  definida en otro archivo
+false|falso|Representa el valor l¢gico falso
+float|flotante| Tipo de dato num‚rico con punto decimal 
+for| para|Estructura de control que repite un bloque un n£mero determinado de veces
+friend|amigo|Permite que una funci¢n o clase acceda a miembros privados de otra clase
+goto|ir_a|Transfiere el control a otra parte del programa mediante una etiqueta
+if|si|Eval£a una condici¢n y ejecuta un bloque si se cumple
+inline|en_linea| Solicita al compilador insertar el c¢digo de una funci¢n directamente
+int|entero|Tipo de dato num‚rico sin decimales
+long|largo|Tipo de dato entero de mayor tama¤o
+mutable|mutable|Permite modificar miembros aunque el objeto sea constante
+namespace|espacio_de_nombres|Agrupa identificadores para evitar conflictos de nombres
+new|nuevo|Asigna memoria din mica para un objeto o variable
+operator|operador|Permite sobrecargar operadores en clases
+private|privado|Define miembros accesibles solo dentro de la misma clase
+protected|protegido|Define miembros accesibles dentro de la clase y sus derivadas
+public|publico|Define miembros accesibles desde cualquier parte del programa
+register|registro|Sugerencia al compilador para almacenar la variable en un registro del CPU
+reinterpret_cast|conversion_reinterpretada|Convierte tipos de punteros sin verificar compatibilidad
+return|retorno|Devuelve un valor desde una funci¢n
+short|corto|Tipo de dato entero de tama¤o reducido
+signed|con_signo|Permite n£meros negativos y positivos
+sizeof|tamano_de|Devuelve el tama¤o en bytes de una variable o tipo
+static|estatico|Mantiene el valor de una variable entre llamadas a funciones
+static_cast|conversion_estatica|Realiza conversiones expl¡citas en tiempo de compilaci¢n
+struct|estructura|Agrupa variables bajo un solo nombre
+switch|segun|Eval£a una expresi¢n y ejecuta el caso correspondiente
+template|plantilla|Define clases o funciones gen‚ricas
+this|este|Puntero que hace referencia al objeto actual
+throw|lanzar|Lanza una excepci¢n
+true|verdadero|Representa el valor l¢gico verdadero
+try|intentar|Bloque que contiene c¢digo que puede generar excepciones
+typedef|alias_tipo|Crea un nuevo nombre para un tipo de dato existente
+typeid|identificador_tip|Devuelve informaci¢n sobre el tipo de una variable
+typename|nombre_tipo|Indica que un identificador es un nombre de tipo dentro de una plantilla
+union|union|Estructura que permite almacenar diferentes tipos de datos en la misma ubicaci¢n de memoria
+unsigned|sin_signo|Permite solo n£meros positivos
+using|usando|Permite utilizar identificadores de un espacio de nombres
+virtual|virtual|Permite sobreescribir m‚todos en clases derivadas
+void|vacio|Indica que una funci¢n no devuelve valor
+volatile|volatil|Indica que una variable puede ser modificada fuera del control del programa
+while|mientras|Ejecuta un bloque mientras la condici¢n sea verdadera
